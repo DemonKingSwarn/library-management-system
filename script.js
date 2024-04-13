@@ -33,6 +33,11 @@ const booksXML = `<?xml version="1.0" encoding="UTF-8"?>
         <available>No</available>
     </book>
     <book>
+        <title>Percy Jackson and the Chalice of the Gods</title>
+        <author>Rick Riordan</author>
+        <available>No</available>
+    </book>
+    <book>
         <title>Heroes of Olympus: The Lost Hero</title>
         <author>Rick Riordan</author>
         <available>Yes</available>
